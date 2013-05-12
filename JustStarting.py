@@ -47,3 +47,4 @@ a=[1,2,3];
 checkem(a);
 print checkem.__doc__
 print a
+print "haha"
